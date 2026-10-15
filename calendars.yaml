@@ -1,0 +1,19 @@
+site_title: Event Calendars
+# Events whose end date lies further back than this drop out of the feeds (they stay in the YAML).
+# 30 days: the feed shows what is coming, plus last month for reference.
+keep_past_days: 30
+
+calendars:
+  - id: pe
+    name: PE & Deal Sourcing Events
+    description: Private equity and deal sourcing conferences and networking events.
+    events: events/pe.yaml
+    output: pe-events.ics
+    summary_prefix: country   # "[DE] Title"
+
+  - id: restructuring
+    name: Restructuring Events
+    description: Restructuring, insolvency and turnaround conferences and networking events.
+    events: events/restructuring.yaml
+    output: restructuring-events.ics
+    summary_prefix: country

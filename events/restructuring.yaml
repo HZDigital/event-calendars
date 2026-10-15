@@ -1,0 +1,1488 @@
+- title: TMA DACH Event (Deutschland-Österreich-Schweiz)
+  series: tma-dach-event
+  start: 2026-01-22
+  end: 2026-01-23
+  status: confirmed
+  organiser: TMA Deutschland / TMA Schweiz / TMA Österreich
+  location: Zürich, Schweiz
+  country: CH
+  category: Conference
+  cost: tbc
+  link: https://www.tma-deutschland.org/aktuelle-veranstaltungen.html
+- title: TMA NextGen – 10-jähriges Jubiläum
+  series: tma-nextgen-10-jaehriges-jubilaeum
+  start: 2026-01-28
+  end: 2026-01-28
+  status: confirmed
+  organiser: TMA Deutschland
+  location: Frankfurt (Maindock)
+  country: DE
+  category: Networking
+  cost: Free
+  link: https://www.tma-deutschland.org/aktuelle-veranstaltungen.html
+- title: TMA UK London (February)
+  series: tma-uk-london
+  start: 2026-02-11
+  end: 2026-02-11
+  status: confirmed
+  organiser: TMA UK
+  location: London
+  country: UK
+  category: Conference
+  cost: TMA-Members
+  link: https://tma-uk.org/events
+- title: R3 Northern Ireland Half Day Forum
+  series: r3-northern-ireland-half-day-forum
+  start: 2026-02-19
+  end: 2026-02-19
+  status: confirmed
+  organiser: R3
+  location: Belfast
+  country: UK
+  category: Conference
+  cost: R3-Members
+  link: https://www.r3.org.uk/events-training/
+- title: 2. Sanierungskonferenz München (Hamburger Kreis)
+  series: sanierungskonferenz-muenchen
+  start: 2026-02-26
+  end: 2026-02-26
+  status: confirmed
+  organiser: Hamburger Kreis
+  location: München (Hotel Bayerischer Hof)
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.linkedin.com/in/distressed-ladies-women-in-restructuring-9a40781a3/
+- title: BDU Fachkonferenz Sanierung 2026
+  series: bdu-fachkonferenz-sanierung
+  start: 2026-03-05
+  end: 2026-03-06
+  status: confirmed
+  organiser: BDU e.V. / Distressed Ladies
+  location: Petersberg bei Bonn (Steigenberger Grandhotel)
+  country: DE
+  category: Conference
+  cost: ab 570 €
+  link: https://www.bdu.de/events/fachkonferenz-sanierung/
+- title: R3 Personal Insolvency Forum
+  series: r3-personal-insolvency-forum
+  start: 2026-03-05
+  end: 2026-03-05
+  status: confirmed
+  organiser: R3
+  location: Stewarts Law LLP, London
+  country: UK
+  category: Conference
+  cost: R3-Members
+  link: https://www.r3.org.uk/events-training/
+  source: https://www.r3.org.uk/events/personal-insolvency-forum-london-2/
+  checked: 2026-10-15
+- title: INSOL Europe – Group Insolvencies Seminar
+  series: insol-europe-group-insolvencies-seminar
+  start: 2026-03-06
+  end: 2026-03-06
+  status: confirmed
+  organiser: INSOL Europe / Réseau CAP
+  location: Brüssel (Palais des Académies)
+  country: BE
+  category: Conference
+  cost: tbc
+  link: https://www.insol-europe.org/events
+- title: ReTurn Stammtisch Wien
+  series: return-stammtisch-wien
+  start: 2026-03-11
+  end: 2026-03-11
+  status: confirmed
+  organiser: ReTurn Forum
+  location: Wien (Bar Campari)
+  country: AT
+  category: Networking
+  cost: tbc
+  link: https://www.restrukturierung.at/
+- title: TMA UK Breakfast – UK Restructuring Solutions for International Problems
+  series: tma-uk-breakfast-uk-restructuring-solutions-for-international-problems
+  start: 2026-03-11
+  end: 2026-03-11
+  status: confirmed
+  organiser: TMA UK
+  location: London
+  country: UK
+  category: Networking
+  cost: TMA-Members
+  link: https://tma-uk.org/events
+- title: ReTurn Frühstück Klagenfurt
+  series: return-fruehstueck-klagenfurt
+  start: 2026-03-12
+  end: 2026-03-12
+  status: confirmed
+  organiser: ReTurn Forum
+  location: Klagenfurt (Hotel Sandwirth)
+  country: AT
+  category: Networking
+  cost: tbc
+  link: https://www.restrukturierung.at/
+- title: TMA NextGen Event Düsseldorf
+  series: tma-nextgen-event-duesseldorf
+  start: 2026-03-12
+  end: 2026-03-12
+  status: confirmed
+  organiser: TMA Deutschland
+  location: Düsseldorf (PwC Office)
+  country: DE
+  category: Networking
+  cost: Free
+  link: https://www.tma-deutschland.org/aktuelle-veranstaltungen.html
+- title: TMA Stammtisch München
+  series: tma-stammtisch-muenchen
+  start: 2026-03-17
+  end: 2026-03-17
+  status: confirmed
+  organiser: TMA Deutschland
+  location: München (Wirtshaus in der Au)
+  country: DE
+  category: Networking
+  cost: Free
+  link: https://www.tma-deutschland.org/aktuelle-veranstaltungen.html
+- title: 23. Deutscher Insolvenzrechtstag
+  series: deutscher-insolvenzrechtstag
+  start: 2026-03-18
+  end: 2026-03-20
+  status: confirmed
+  organiser: DIRI
+  location: Berlin
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.insolvenz-portal.de/
+- title: INSOL Europe – Environmental Concerns in Insolvency
+  series: insol-europe-environmental-concerns-in-insolvency
+  start: 2026-03-23
+  end: 2026-03-23
+  status: confirmed
+  organiser: INSOL Europe / CNAJMJ
+  location: Paris (Commercial Court) + Online
+  country: FR
+  category: Conference
+  cost: tbc
+  link: https://www.insol-europe.org/events
+- title: Deutsches Restrukturierungsforum Düsseldorf – „Stimmt die Chemie?"
+  series: deutsches-restrukturierungsforum-duesseldorf-stimmt-die-chemie
+  start: 2026-04-16
+  end: 2026-04-16
+  status: confirmed
+  organiser: Deutsches Restrukturierungsforum
+  location: Düsseldorf (Industrie-Club)
+  country: DE
+  category: Regional Forum
+  cost: Free
+  link: https://www.deutsches-restrukturierungsforum.de/
+- title: Restrukturierungslunch Heidelberg
+  series: restrukturierungslunch-heidelberg
+  start: 2026-04-17
+  end: 2026-04-17
+  status: confirmed
+  organiser: IfUS-Institut
+  location: Heidelberg
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+- title: INSOL International Annual Conference 2026
+  series: insol-international-annual-conference
+  start: 2026-04-18
+  end: 2026-04-20
+  status: confirmed
+  organiser: INSOL International
+  location: London
+  country: UK
+  category: Conference
+  cost: tbc
+  link: https://events.insol.org/website/17374/home/
+- title: Deutsches Restrukturierungsforum Berlin – „Rolle der Banken"
+  series: deutsches-restrukturierungsforum-berlin-rolle-der-banken
+  start: 2026-04-22
+  end: 2026-04-22
+  status: confirmed
+  organiser: Deutsches Restrukturierungsforum
+  location: Berlin (Dorint Kurfürstendamm)
+  country: DE
+  category: Regional Forum
+  cost: Free
+  link: https://www.deutsches-restrukturierungsforum.de/
+- title: Handelsblatt Jahrestagung Restrukturierung 2026
+  series: handelsblatt-jahrestagung-restrukturierung
+  start: 2026-04-22
+  end: 2026-04-24
+  status: confirmed
+  organiser: Handelsblatt / Euroforum
+  location: Frankfurt (Hilton City Centre)
+  country: DE
+  category: Conference
+  cost: ab 2.450 €
+  link: https://live.handelsblatt.com/event/handelsblatt-restrukturierung/
+- title: TMA UK London
+  series: tma-uk-london-2
+  start: 2026-04-22
+  end: 2026-04-22
+  status: confirmed
+  organiser: TMA UK
+  location: London
+  country: UK
+  category: Conference
+  cost: TMA-Members
+  link: https://tma-uk.org/events
+- title: Restrukturierungslunch München
+  series: restrukturierungslunch-muenchen
+  start: 2026-04-23
+  end: 2026-04-23
+  status: confirmed
+  organiser: IfUS-Institut
+  location: München
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+- title: IPA Annual Conference 2026
+  series: ipa-annual-conference
+  start: 2026-04-29
+  end: 2026-04-29
+  status: confirmed
+  organiser: Insolvency Practitioners Association
+  location: London (1 Wimpole Street)
+  country: UK
+  category: Conference
+  cost: tbc
+  link: https://insolvency-practitioners.org.uk/event/ipa-annual-conference-2026/
+- title: Restrukturierungslunch Nürnberg
+  series: restrukturierungslunch-nuernberg
+  start: 2026-04-29
+  end: 2026-04-29
+  status: confirmed
+  organiser: IfUS-Institut
+  location: Nürnberg
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+- title: Restrukturierungslunch Magdeburg
+  series: restrukturierungslunch-magdeburg
+  start: 2026-05-05
+  end: 2026-05-05
+  status: confirmed
+  organiser: IfUS-Institut
+  location: Magdeburg
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+- title: R3 Annual Conference 2026 (40 Years Insolvency Act)
+  series: r3-annual-conference
+  start: 2026-05-06
+  end: 2026-05-08
+  status: confirmed
+  organiser: R3
+  location: Budapest (Marriott Hotel)
+  country: HU
+  category: Conference
+  cost: R3-Members
+  link: https://www.r3annualconference.com/
+- title: ILA Annual Conference 2026
+  series: ila-annual-conference
+  start: 2026-05-15
+  end: 2026-05-15
+  status: confirmed
+  organiser: Insolvency Lawyers Association
+  location: London (Linklaters)
+  country: UK
+  category: Conference
+  cost: ILA-Members
+  link: https://www.ilauk.com/news-events/upcoming-events
+- title: ILA Annual Conference 2026 (Insolvency Lawyers Association)
+  series: ila-annual-conference-2
+  start: 2026-05-15
+  end: 2026-05-15
+  status: confirmed
+  organiser: ILA UK
+  location: London (Linklaters)
+  country: UK
+  category: Conference
+  cost: ILA-Members
+  link: https://www.ilauk.com/
+- title: 26. Düsseldorfer Insolvenztage
+  series: duesseldorfer-insolvenztage
+  start: 2026-05-21
+  end: 2026-05-22
+  status: confirmed
+  organiser: HHU Düsseldorf
+  location: Düsseldorf (Industrie-Club)
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.insolvenz-portal.de/
+- title: Süddeutsches Forum für Insolvenz und Sanierung
+  series: sueddeutsches-forum-fuer-insolvenz-und-sanierung
+  start: 2026-05-21
+  end: 2026-05-22
+  status: confirmed
+  organiser: R&W Fachkonferenzen (dfv Mediengruppe)
+  location: Kloster Holzen
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.insolvenz-portal.de/
+- title: Restrukturierungslunch Erfurt
+  series: restrukturierungslunch-erfurt
+  start: 2026-06-03
+  end: 2026-06-03
+  status: confirmed
+  organiser: IfUS-Institut
+  location: Erfurt
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+- title: TMA Europe Annual Conference
+  series: tma-europe-annual-conference
+  start: 2026-06-03
+  end: 2026-06-04
+  status: confirmed
+  organiser: TMA Europe
+  location: Italien (Ort tbd)
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.tma-europe.org/events/
+- title: 20. Kieler Insolvenzsymposium
+  series: kieler-insolvenzsymposium
+  start: 2026-06-04
+  end: 2026-06-06
+  status: confirmed
+  organiser: Centrum für Insolvenzrecht Kiel
+  location: Kiel
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.insolvenz-portal.de/
+- title: R3 & INSOL Europe International Restructuring Conference (20th)
+  series: r3-and-insol-europe-international-restructuring-conference
+  start: 2026-06-04
+  end: 2026-06-04
+  status: confirmed
+  organiser: R3 / INSOL Europe
+  location: London (No.11 Cavendish Square)
+  country: UK
+  category: Conference
+  cost: tbc
+  link: https://www.r3.org.uk/
+- title: Deutsches Restrukturierungsforum Stuttgart – „Handlungsoptionen"
+  series: deutsches-restrukturierungsforum-stuttgart-handlungsoptionen
+  start: 2026-06-10
+  end: 2026-06-10
+  status: confirmed
+  organiser: Deutsches Restrukturierungsforum
+  location: Stuttgart (Haus der Architekten)
+  country: DE
+  category: Regional Forum
+  cost: Free
+  link: https://www.deutsches-restrukturierungsforum.de/
+- title: Restrukturierungslunch Stuttgart
+  series: restrukturierungslunch-stuttgart
+  start: 2026-06-10
+  end: 2026-06-10
+  status: confirmed
+  organiser: IfUS-Institut
+  location: Stuttgart
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+- title: 9. Bodensee-Forum – Sanierungskongress
+  series: bodensee-forum-sanierungskongress
+  start: 2026-06-18
+  end: 2026-06-19
+  status: confirmed
+  organiser: Hanne Hofner Eventmanagement
+  location: Konstanz (Konzil)
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.kongress-bodenseeforum.de/
+- title: 10. Jahrestagung Hamburger Kreis
+  series: jahrestagung-hamburger-kreis
+  start: 2026-06-19
+  end: 2026-06-19
+  status: confirmed
+  organiser: Hamburger Kreis e.V.
+  location: tbd
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.hamburger-kreis.org/
+- title: 3. Transformationskonferenz Heidelberg
+  series: transformationskonferenz-heidelberg
+  start: 2026-06-25
+  end: 2026-06-26
+  status: confirmed
+  organiser: IfUS-Institut / SMP / intrinsify
+  location: Heidelberg (SRH Hochschule)
+  country: DE
+  category: Conference
+  cost: ab 389 €
+  link: https://www.ifus-institut.de/veranstaltungen/transformationskonferenz
+- title: 'GRR Live: Women in Restructuring Summit'
+  series: grr-live-women-in-restructuring-summit
+  start: 2026-06-25
+  end: 2026-06-25
+  status: confirmed
+  organiser: Global Restructuring Review
+  location: Pan Pacific London
+  country: UK
+  category: Conference
+  cost: tbc
+  link: https://globalrestructuringreview.com/events
+  source: https://events.globalrestructuringreview.com/GRRWomenInRestructuring2026
+  checked: 2026-10-15
+- title: INSOL Europe EECC Conference – "When East meets West"
+  series: insol-europe-eecc-conference-when-east-meets-west
+  start: 2026-06-25
+  end: 2026-06-25
+  status: confirmed
+  organiser: INSOL Europe
+  location: Limassol, Zypern
+  country: CY
+  category: Conference
+  cost: tbc
+  link: https://www.insol-europe.org/events
+- title: IfUS Fachsitzung des Verbandes
+  series: ifus-fachsitzung-des-verbandes
+  start: 2026-07-02
+  end: 2026-07-02
+  status: confirmed
+  organiser: IfUS-Institut
+  location: Heidelberg (SRH Hochschule)
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+- title: R3 Contentious Insolvency & Creditors Forum
+  series: r3-contentious-insolvency-and-creditors-forum
+  start: 2026-07-16
+  end: 2026-07-16
+  status: confirmed
+  organiser: R3
+  location: London (BMA House)
+  country: UK
+  category: Conference
+  cost: R3-Members
+  link: https://www.r3.org.uk/events-training/
+- title: Restrukturierungslunch Hannover
+  series: restrukturierungslunch-hannover
+  start: 2026-08-27
+  end: 2026-08-27
+  status: confirmed
+  organiser: IfUS-Institut
+  location: Hannover
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+- title: XIV. Turnaroundkongress 2026
+  series: xiv-turnaroundkongress
+  start: 2026-08-31
+  end: 2026-09-01
+  status: confirmed
+  organiser: Turnaroundkongress e.V.
+  location: Weimar (Alte Remise)
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.turnaroundkongress.com/
+- title: 18. NIVD-Jahrestagung
+  series: nivd-jahrestagung
+  start: 2026-09-10
+  end: 2026-09-11
+  status: confirmed
+  organiser: NIVD
+  location: Berlin (Hotel Adlon)
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.insolvenz-portal.de/
+- title: 16. Sanierungskonferenz Heidelberg
+  series: sanierungskonferenz-heidelberg
+  start: 2026-09-17
+  end: 2026-09-18
+  status: confirmed
+  organiser: IfUS-Institut / SRH
+  location: Heidelberg
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/sanierungskonferenz
+- title: 15. Heidelberger Symposium für Unternehmensrestrukturierung
+  series: heidelberger-symposium-fuer-unternehmensrestrukturierung
+  start: 2026-09-23
+  end: 2026-09-23
+  status: confirmed
+  organiser: HgGUR / Universität Heidelberg
+  location: Heidelberg
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+  source: https://hggur.de/veranstaltungen/
+  checked: 2026-10-15
+- title: INSOL Europe Annual Congress 2026
+  series: insol-europe-annual-congress
+  start: 2026-10-15
+  end: 2026-10-18
+  status: confirmed
+  organiser: INSOL Europe
+  location: Vilamoura, Portugal
+  country: PT
+  category: Conference
+  cost: tbc
+  link: https://www.insol-europe.org/events
+  checked: 2026-10-15
+  notes: 14-15 Oct was the Academic Conference before the congress.
+- title: 15. Internationales Symposium Restrukturierung Kufstein
+  series: internationales-symposium-restrukturierung-kufstein
+  start: 2026-10-16
+  end: 2026-10-16
+  status: confirmed
+  organiser: FH Kufstein Tirol / Prof. Exler
+  location: Kufstein, Österreich (FH Kufstein)
+  country: AT
+  category: Conference
+  cost: tbc
+  link: https://www.fh-kufstein.ac.at/service/eventserien/symposium-restrukturierung/2026
+- title: Deutscher Insolvenzverwalterkongress (VID)
+  series: deutscher-insolvenzverwalterkongress
+  start: 2026-11-04
+  end: 2026-11-06
+  status: confirmed
+  organiser: VID
+  location: Berlin
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.insolvenz-portal.de/
+- title: GRR Awards 2026
+  series: grr-awards
+  start: 2026-11-04
+  end: 2026-11-04
+  status: confirmed
+  organiser: Global Restructuring Review
+  location: Pan Pacific London
+  country: UK
+  category: Networking
+  cost: tbc
+  link: https://globalrestructuringreview.com/events
+  source: https://events.globalrestructuringreview.com/GRR-Awards
+  checked: 2026-10-15
+- title: 10 Jahre TMA NOW Germany – Jubiläumsveranstaltung
+  series: 10-jahre-tma-now-germany-jubilaeumsveranstaltung
+  start: 2026-11-11
+  end: 2026-11-11
+  status: confirmed
+  organiser: TMA NOW / TMA Deutschland
+  location: Königstein im Taunus
+  country: DE
+  category: Conference
+  cost: Members
+  link: https://www.tma-deutschland.org/terminuebersicht-2025.html
+- title: 13. Essener Insolvenzforum
+  series: essener-insolvenzforum
+  start: 2026-11-11
+  end: 2026-11-11
+  status: confirmed
+  organiser: Essener Insolvenzforum
+  location: Essen
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.insolvenz-portal.de/
+- title: 20. TMA Jahrestagung – Jubiläumsveranstaltung
+  series: tma-jahrestagung-jubilaeumsveranstaltung
+  start: 2026-11-12
+  end: 2026-11-12
+  status: confirmed
+  organiser: TMA Deutschland
+  location: Königstein im Taunus
+  country: DE
+  category: Conference
+  cost: Members
+  link: https://www.tma-deutschland.org/terminuebersicht-2025.html
+- title: Sanierungsberater Jahrestagung 2026
+  series: sanierungsberater-jahrestagung
+  start: 2026-11-12
+  end: 2026-11-13
+  status: confirmed
+  organiser: R&W Fachkonferenzen (dfv Mediengruppe)
+  location: Berlin (Steigenberger)
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.insolvenz-portal.de/
+- title: TMA UK Annual Conference 2026
+  series: tma-uk-annual-conference
+  start: 2026-11-12
+  end: 2026-11-12
+  status: confirmed
+  organiser: TMA UK
+  location: Royal College of Physicians, London
+  country: UK
+  category: Conference
+  cost: GBP 475 + VAT (members) / GBP 600 + VAT
+  link: https://tma-uk.org/events
+  source: https://tma-uk.org/conference/tma-uk-annual-conference-2026
+  checked: 2026-10-15
+- title: TMA Mitgliederversammlung 2026
+  series: tma-mitgliederversammlung
+  start: 2026-11-13
+  end: 2026-11-13
+  status: confirmed
+  organiser: TMA Deutschland
+  location: Königstein im Taunus
+  country: DE
+  category: Networking
+  cost: Members
+  link: https://www.tma-deutschland.org/terminuebersicht-2025.html
+- title: Insolvency Service Forward Thinking Conference
+  series: insolvency-service-forward-thinking-conference
+  start: 2026-11-20
+  end: 2026-11-20
+  status: confirmed
+  organiser: UK Insolvency Service
+  location: University of Leeds
+  country: UK
+  category: Conference
+  cost: tbc
+  link: https://www.gov.uk/government/publications/the-insolvency-service-forward-thinking-conference
+  source: https://blogs.law.ox.ac.uk/oblb/blog-post/2026/06/forward-thinking-conference-call-papers
+  checked: 2026-10-15
+  notes: Date from the Insolvency Service call for papers, published on the Oxford Business Law Blog.
+- title: 5. Restrukturierungs- und Insolvenzgerichtstag
+  series: restrukturierungs-und-insolvenzgerichtstag
+  start: 2026-11-26
+  end: 2026-11-27
+  status: confirmed
+  organiser: DRIG e.V.
+  location: Mannheim
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.insolvenz-portal.de/
+- title: BDU Fachkonferenz Sanierung 2027
+  series: bdu-fachkonferenz-sanierung
+  start: 2027-02-26
+  end: 2027-02-26
+  status: confirmed
+  organiser: BDU e.V. / Distressed Ladies
+  location: Petersberg bei Bonn (Steigenberger Grandhotel)
+  country: DE
+  category: Conference
+  cost: ab 570 €
+  link: https://www.bdu.de/events/fachkonferenz-sanierung/
+  source: https://www.bdu.de/events/fachkonferenz-sanierung/
+  checked: &id001 2026-10-15
+  notes: 'BDU: ''Save the Date: Fachkonferenz Sanierung am 26. Februar 2027 auf dem Petersberg bei Bonn. Weitere Infos folgen in Kürze.'' Only one day named; whether there is an evening event the day before (as in 2026, 5-6 Mar) is not stated. Hotel name kept from input (Petersberg = Steigenberger Grandhotel).'
+- title: 24. Deutscher Insolvenzrechtstag
+  series: deutscher-insolvenzrechtstag
+  start: 2027-03-17
+  end: 2027-03-19
+  status: confirmed
+  organiser: Arbeitsgemeinschaft Insolvenzrecht & Sanierung im DAV (AGIS) / Deutsche Anwaltakademie
+  location: Berlin
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://agis.law/de/veranstaltungen/veranstaltungskalender/24-deutscher-insolvenzrechtstag-2027
+  source: https://agis.law/de/veranstaltungen/veranstaltungskalender/24-deutscher-insolvenzrechtstag-2027
+  checked: *id001
+  notes: 'AGIS event page: Startdatum 17.03.2027, 18:00; AGIS calendar (https://agis.law/de/veranstaltungen/veranstaltungskalender) lists the event on 17, 18 and 19 March 2027. Venue not yet named, programme to follow. Conflict: IfUS Branchenevents page lists 10-12 March 2027; the organiser''s (AGIS) date was used. Organiser in input (''DIRI'') corrected to AGIS / Deutsche Anwaltakademie.'
+- title: INSOL Europe 2027 EECC Conference
+  series: insol-europe-eecc-conference-when-east-meets-west
+  start: 2027-04-14
+  end: 2027-04-15
+  status: confirmed
+  organiser: INSOL Europe
+  location: Limassol, Zypern
+  country: CY
+  category: Conference
+  cost: tbc
+  link: https://www.insol-europe.org/events/0/start_date/asc/2027
+  source: https://www.insol-europe.org/events/0/start_date/asc/2027
+  checked: *id001
+  notes: 'INSOL Europe 2027 listing: ''2027 EECC Conference, Limassol, Cyprus, 14-04-2027 to 15-04-2027 … The new date for this conference is now confirmed for next year.'' Inference: the wording suggests the 25 June 2026 Limassol conference was postponed to April 2027, so the 2026 entry may not have taken place. Not stated explicitly.'
+- title: Handelsblatt Jahrestagung Restrukturierung 2027
+  series: handelsblatt-jahrestagung-restrukturierung
+  start: 2027-04-28
+  end: 2027-04-30
+  status: confirmed
+  organiser: Handelsblatt / Euroforum
+  location: Frankfurt (Steigenberger Icon Frankfurter Hof)
+  country: DE
+  category: Conference
+  cost: from EUR 2,450 net (Jahrestagung)
+  link: https://live.handelsblatt.com/event/handelsblatt-restrukturierung/
+  source: https://live.handelsblatt.com/event/handelsblatt-restrukturierung/
+  checked: *id001
+  notes: 'Venue changed to Steigenberger Icon Frankfurter Hof. Ticket tiers on the page: Jahrestagung from EUR 2,450, Focus Day from EUR 1,950, Young Leader from EUR 450 (net). Third-party listings put the 2026 edition at The Westin Grand Frankfurt rather than the Hilton City Centre named in the input; not verified against the organiser.'
+- title: R3 Annual Conference 2027
+  series: r3-annual-conference
+  start: 2027-05-05
+  end: 2027-05-07
+  status: confirmed
+  organiser: R3
+  location: Dubrovnik (Sun Gardens, Orašac)
+  country: HR
+  category: Conference
+  cost: R3-Members
+  link: https://r3.org.uk/events/annual-conference-2027-save-the-date/
+  source: https://r3.org.uk/events/annual-conference-2027-save-the-date/
+  checked: *id001
+  notes: Save the date; programme and booking details to follow; about 250 delegates expected. No price published.
+- title: INSOL Sydney 2027 (INSOL International Annual Conference)
+  series: insol-international-annual-conference
+  start: 2027-05-09
+  end: 2027-05-11
+  status: confirmed
+  organiser: INSOL International
+  location: Sydney
+  country: AU
+  category: Conference
+  cost: tbc
+  link: https://eu.eventscloud.com/website/20408/home/
+  source: https://www.insol.org/events
+  checked: *id001
+  notes: 'INSOL events page lists ''Conference 9 May 2027 - 11 May 2027 INSOL Sydney 2027''. Venue not yet named. Location changed from London (2026) to Sydney. Possible input error: a third-party listing (Conyers) gave 20-22 April 2026 for INSOL London 2026 vs 18-20 April in the input; not verified against the organiser.'
+- title: 27. Düsseldorfer Insolvenztage
+  series: duesseldorfer-insolvenztage
+  start: 2027-06-03
+  end: 2027-06-04
+  status: confirmed
+  organiser: Deutsche Anwaltakademie / Düsseldorfer Vereinigung für Insolvenz- und Sanierungsrecht e.V.
+  location: Düsseldorf (Industrie-Club)
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.anwaltakademie.de/seminare/27-duesseldorfer-insolvenztage-2027-save-the-date.82661
+  source: https://www.anwaltakademie.de/seminare/27-duesseldorfer-insolvenztage-2027-save-the-date.82661
+  checked: *id001
+  notes: 'Save the date: Thu 3 June 2027 09:00 to Fri 4 June 2027 16:30, Industrie-Club Düsseldorf, Elberfelder Str. 6. Full programme and booking from January 2027; price not yet published. Organiser per source is Deutsche Anwaltakademie with the Düsseldorfer Vereinigung (input said HHU Düsseldorf).'
+- title: 21. Kieler Insolvenzsymposium
+  series: kieler-insolvenzsymposium
+  start: 2027-06-10
+  end: 2027-06-12
+  status: confirmed
+  organiser: Centrum für Insolvenzrecht Kiel
+  location: Kiel
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://centrum-insolvenzrecht.de/
+  source: https://centrum-insolvenzrecht.de/
+  checked: *id001
+  notes: '''Save the date'' on the Centrum für deutsches & europäisches Insolvenzrecht homepage: 21. Kieler Insolvenzsymposium 10.-12.06.2027. Venue not named; the 2026 hotel block was at the Maritim Hotel Bellevue Kiel.'
+- title: TMA Europe 2027 Annual European Conference
+  series: tma-europe-annual-conference
+  start: 2027-06-16
+  end: 2027-06-17
+  status: confirmed
+  organiser: TMA Europe
+  location: München
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.tma-europe.org/events/2027-annual-european-conference/
+  source: https://www.tma-europe.org/events/2027-annual-european-conference/
+  checked: *id001
+  notes: 'Save the date; venue not yet named; registration opens January 2027. Related: TMA DACH-Event 2027, 28-29 Jan 2027, Salzburg (https://www.tma-europe.org/events/tma-dach-event-2027/).'
+- title: 4. Transformationskonferenz Heidelberg
+  series: transformationskonferenz-heidelberg
+  start: 2027-06-24
+  end: 2027-06-25
+  status: confirmed
+  organiser: IfUS-Institut / SMP / intrinsify
+  location: Heidelberg (SRH Hochschule)
+  country: DE
+  category: Conference
+  cost: ab 389 €
+  link: https://www.ifus-institut.de/veranstaltungen/transformationskonferenz
+  source: https://www.ifus-institut.de/veranstaltungen/transformationskonferenz
+  checked: *id001
+  notes: 'Page shows ''Save-the-date: 24. - 25. Juni 2027''. Venue for 2027 not stated (location kept from 2026). Edition number 4 inferred from 1st 2024 / 2nd 2025 / 3rd 2026, not stated for 2027. 2026 prices were EUR 389 net (EUR 289 alumni); 2027 prices not published.'
+- title: 10. Bodensee-Forum – Sanierungskongress
+  series: bodensee-forum-sanierungskongress
+  start: 2027-07-01
+  end: 2027-07-02
+  status: confirmed
+  organiser: Hanne Hofner Eventmanagement
+  location: Konstanz (Konzil)
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.kongress-bodenseeforum.de/
+  source: https://www.kongress-bodenseeforum.de/
+  checked: *id001
+  notes: 'Homepage: ''10. Bodensee-Forum 2027 … 1. & 2. Juli 2027 im Konzil Konstanz''; get-together and lake cruise on 1 July 2027. Price not shown.'
+- title: Sanierungskonferenz Heidelberg 2027
+  series: sanierungskonferenz-heidelberg
+  start: 2027-09-16
+  end: 2027-09-17
+  status: confirmed
+  organiser: IfUS-Institut / SRH
+  location: Heidelberg (SRH University)
+  country: DE
+  category: Conference
+  cost: '2026: EUR 389 net (IfUS alumni EUR 289 net)'
+  link: https://www.ifus-institut.de/veranstaltungen/sanierungskonferenz
+  source: https://www.ifus-institut.de/veranstaltungen/sanierungskonferenz
+  checked: *id001
+  notes: 'Official ''Save-the-date: 16.-17. Sept. 2027''. Venue for 2027 not stated; SRH Heidelberg assumed from series (Inference). Inference: 17th edition. In 2026 the 17 Sep was the networking evening and the conference proper 18 Sep, so 16 Sep 2027 is probably the evening and 17 Sep the conference day.'
+- title: Internationales Symposium Restrukturierung Kufstein 2027
+  series: internationales-symposium-restrukturierung-kufstein
+  start: 2027-10-15
+  end: 2027-10-15
+  status: confirmed
+  organiser: Hochschule Kufstein Tirol (HOK) / Prof. Exler
+  location: Kufstein, Österreich (Hochschule Kufstein)
+  country: AT
+  category: Conference
+  cost: tbc
+  link: https://www.hok.ac.at/service/eventserien/symposium-restrukturierung/2026
+  source: https://www.hok.ac.at/service/eventserien/symposium-restrukturierung/2026
+  checked: *id001
+  notes: 'Official: ''Die nächste Jahreskonferenz findet am 15.10.2027 statt.'' Edition number not stated (Inference: 16th). FH Kufstein site moved to hok.ac.at (old link 301-redirects). 2026 had a pre-day on 15.10. plus the main conference 16.10.; a 2027 pre-day (14.10.) is not announced.'
+- title: TMA NOW Event zur Jahrestagung 2027
+  series: 10-jahre-tma-now-germany-jubilaeumsveranstaltung
+  start: 2027-11-10
+  end: 2027-11-10
+  status: confirmed
+  organiser: TMA NOW / TMA Deutschland
+  location: Königstein im Taunus
+  country: DE
+  category: Conference
+  cost: Members free, registration required
+  link: https://www.tma-deutschland.org/terminuebersicht-2026.html
+  source: https://www.tma-deutschland.org/terminuebersicht-2026.html
+  checked: *id001
+  notes: The 2026 '10 Jahre' anniversary was a one-off label; the recurring format is the TMA NOW evening before the Jahrestagung. TMA term overview lists 'TMA NOW' on 10. November 2027, Königstein im Taunus.
+- title: TMA Jahrestagung 2027
+  series: tma-jahrestagung-jubilaeumsveranstaltung
+  start: 2027-11-11
+  end: 2027-11-11
+  status: confirmed
+  organiser: TMA Deutschland
+  location: Königstein im Taunus
+  country: DE
+  category: Conference
+  cost: Members
+  link: https://www.tma-deutschland.org/terminuebersicht-2026.html
+  source: https://www.tma-deutschland.org/terminuebersicht-2026.html
+  checked: *id001
+  notes: 'TMA term overview lists ''TMA-Jahrestagung'' on 11. November 2027, Königstein im Taunus. Inference: 21st Jahrestagung (2026 was the 20th). Input link points to the 2025 overview; 2026 overview carries the 2027 dates.'
+- title: TMA Mitgliederversammlung 2027
+  series: tma-mitgliederversammlung
+  start: 2027-11-12
+  end: 2027-11-12
+  status: confirmed
+  organiser: TMA Deutschland
+  location: Königstein im Taunus
+  country: DE
+  category: Networking
+  cost: Members
+  link: https://www.tma-deutschland.org/terminuebersicht-2026.html
+  source: https://www.tma-deutschland.org/terminuebersicht-2026.html
+  checked: *id001
+  notes: TMA term overview lists 'TMA-Mitgliederversammlung' on 12. November 2027, Königstein im Taunus.
+- title: 11. Jahrestagung Hamburger Kreis
+  series: jahrestagung-hamburger-kreis
+  status: tbd
+  organiser: Hamburger Kreis e.V.
+  location: tbd
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.hamburger-kreis.org/
+  checked: *id001
+  notes: 'No 2027 date published; the events page (https://www.hamburger-kreis.org/wissenschaft-und-forschung/veranstaltungen/) says further events are in planning. The 2026 (10th) meeting was 19 June 2026 at Hotel Hafen Hamburg. Inference: the 11th edition number assumes annual continuation.'
+- title: 11. Süddeutsches Forum für Insolvenz und Sanierung
+  series: sueddeutsches-forum-fuer-insolvenz-und-sanierung
+  status: tbd
+  organiser: R&W Fachkonferenzen (dfv Mediengruppe)
+  location: Kloster Holzen
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.insolvenz-portal.de/
+  checked: *id001
+  notes: 'No 2027 edition found. The 2026 (10th) programme flyer is hosted by ZWW Universität Augsburg (https://www.zww.uni-augsburg.de/files/mate/documents/Produktmanagement/Flyer/Programm_10.S%C3%BCddeutsches_Forum_f%C3%BCr_Insovenz_und_Sanierung.pdf). Inference: the 11th edition number assumes annual continuation; past editions were in May.'
+- title: 14. Essener Insolvenzforum
+  series: essener-insolvenzforum
+  status: tbd
+  organiser: Essener Insolvenzforum (Burk AG)
+  location: Essen
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.insolvenz-portal.de/
+  checked: *id001
+  notes: 'Could not verify the 2026 edition (11.11.2026) or any 2027 date: no official event page found; burk.ag shows no event news. Last verifiable edition: 10th forum on 15.11.2023, Philharmonie Essen, organised by Burk AG (Sanierung & Restrukturierung newsletter report). Inference: annual mid-November pattern; 14th numbering assumes annual continuation.'
+- title: 16. Heidelberger Symposium für Unternehmensrestrukturierung
+  series: heidelberger-symposium-fuer-unternehmensrestrukturierung
+  status: tbd
+  organiser: HgGUR (Heidelberger gemeinnützige Gesellschaft für Unternehmensrestrukturierung) / Universität Heidelberg
+  location: Heidelberg
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://hggur.de/veranstaltungen/
+  checked: &id002 2026-10-15
+  notes: 'No 2027 date on hggur.de. 2026 edition (input had no date): 15th symposium on 23.09.2026 (https://hggur.de/veranstaltungen/). Organiser correction: HgGUR with Universität Heidelberg, not IfUS/SRH. Inference: not strictly annual and month varies (March/April up to 2019, 09.10.2025, 23.09.2026); 16th edition numbering assumed.'
+- title: 19. NIVD-Jahrestagung
+  series: nivd-jahrestagung
+  status: tbd
+  organiser: NIVD
+  location: Berlin (Hotel Adlon)
+  country: DE
+  category: Conference
+  cost: '2026: EUR 649 members / EUR 889 non-members (early bird EUR 549 / 789)'
+  link: https://nivd.de/category/veranstaltungen/jahrestagung/
+  checked: *id001
+  notes: 'No 2027 date on nivd.de. 2026 edition: get-together 10.09.2026, conference 11.09.2026 at Hotel Adlon Kempinski Berlin (input 10-11 Sep correct). Inference: series has run every September in Berlin (Adlon since 2024), so early/mid September 2027 likely; 19th edition number assumes annual continuation.'
+- title: 6. Restrukturierungs- und Insolvenzgerichtstag
+  series: restrukturierungs-und-insolvenzgerichtstag
+  status: tbd
+  organiser: Deutscher Restrukturierungs- und Insolvenzgerichtstag e.V.
+  location: tbd
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.insolvenzgerichtstag.de/
+  checked: *id001
+  notes: 'No 2027 date/venue on insolvenzgerichtstag.de (site only lists ''Workshops 2027''). 2026 confirmed: 5th edition 26.-27.11.2026 in Mannheim. Organiser full name is ''Deutscher Restrukturierungs- und Insolvenzgerichtstag e.V.'' (input ''DRIG e.V.''). Inference: annual since 2022, so a 6th edition in late 2027 is likely; venue changes.'
+- title: 6. Sanierungsberater Jahrestagung 2027
+  series: sanierungsberater-jahrestagung
+  status: tbd
+  organiser: R&W Fachkonferenzen (dfv Mediengruppe)
+  location: tbd
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.ruw.de/SanB-Jahrestagung
+  checked: *id001
+  notes: 'No 2027 date published. 2026 edition verified: ''5. Sanierungsberater Jahrestagung zugleich 10. WIRE Jahrestagung'', 12.-13.11.2026, Steigenberger Hotel Am Kanzleramt Berlin (https://www.ruw-fachkonferenzen.de/veranstaltung/sanierungsberater-jahrestagung-2026/). Organiser is R&W Fachkonferenzen / dfv (input said ''Veranstalter''). Inference: timing and city vary by year (2022 Hamburg June, 2025 Munich 22-23 May, 2026 Berlin November); 6th edition numbering assumes annual continuation.'
+- title: Augsburger Restrukturierungslunch 2027
+  series: restrukturierungslunch-augsburg
+  status: tbd
+  organiser: Deutsches Restrukturierungsforum
+  location: Augsburg
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.restrukturierungslunch.de/augsburg/
+  source: https://www.restrukturierungslunch.de/augsburg/
+  checked: *id002
+  notes: 'Official ''Save the Date: Frühjahr 2027'' (season only). Past dates: 27 Feb 2026, 21 Feb 2025, 1 Mar 2024. Inference: late Feb/early Mar 2027 likely.'
+- title: Bielefelder Restrukturierungslunch 2027
+  series: restrukturierungslunch-bielefeld
+  status: tbd
+  organiser: Deutsches Restrukturierungsforum
+  location: Bielefeld
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.restrukturierungslunch.de/bielefeld/
+  source: https://www.restrukturierungslunch.de/bielefeld/
+  checked: *id002
+  notes: 'Official ''Save the Date: Sommer 2027'' (season only). Past dates: 22 Sep 2026, 16 Sep 2025, 24 Sep 2024. Inference: despite ''Sommer'' wording, past editions were in September.'
+- title: DKTR – Düsseldorfer Kreis für Transformation & Restrukturierung 2027
+  series: dktr-duesseldorfer-kreis-fuer-transformation-and-restrukturierung
+  status: tbd
+  organiser: DKTR e.V.
+  location: Düsseldorf (wechselnd)
+  country: DE
+  category: Regional Forum
+  cost: Membership
+  link: https://www.dktr.org/dktr
+  checked: *id002
+  notes: dktr.org (Wix site) publishes no event dates at all, only a mailing-list sign-up; no third-party listings found. Dates are presumably only sent to the mailing list (Inference).
+- title: Deutscher Insolvenzverwalterkongress 2027 (VID)
+  series: deutscher-insolvenzverwalterkongress
+  status: tbd
+  organiser: VID
+  location: Berlin
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.vid.de/
+  checked: *id001
+  notes: 'No 2027 date on vid.de (only ''Frühjahrstagung 2027'' page exists, undated). 2026 edition confirmed 04.-06.11.2026, InterContinental Berlin. Inference: congress is held annually in early November in Berlin (2023: 8-10 Nov, 2024: 6-8 Nov, 2026: 4-6 Nov).'
+- title: Deutsches Restrukturierungsforum Berlin
+  series: deutsches-restrukturierungsforum-berlin-rolle-der-banken
+  status: tbd
+  organiser: Deutsches Restrukturierungsforum
+  location: Berlin (Dorint Kurfürstendamm)
+  country: DE
+  category: Regional Forum
+  cost: Free
+  link: https://www.deutsches-restrukturierungsforum.de/
+  checked: *id001
+  notes: No 2027 Berlin dates published. Next Berlin forum after April 2026 is 25 Nov 2026 ('Die neue Immobilienrealität …', Dorint Kurfürstendamm), still in 2026. Each forum has a new topic.
+- title: Deutsches Restrukturierungsforum Düsseldorf
+  series: deutsches-restrukturierungsforum-duesseldorf-stimmt-die-chemie
+  status: tbd
+  organiser: Deutsches Restrukturierungsforum
+  location: Düsseldorf (Industrie-Club)
+  country: DE
+  category: Regional Forum
+  cost: Free
+  link: https://www.deutsches-restrukturierungsforum.de/
+  checked: *id001
+  notes: No 2027 Düsseldorf dates published (checked 2026-10-15). Each forum has a new topic, so the 2026 title does not carry over. A further Düsseldorf forum took place 29 Sep 2026 ('The Walking Debt – Fortsetzung folgt…').
+- title: Deutsches Restrukturierungsforum Stuttgart
+  series: deutsches-restrukturierungsforum-stuttgart-handlungsoptionen
+  status: tbd
+  organiser: Deutsches Restrukturierungsforum
+  location: Stuttgart (Haus der Architekten)
+  country: DE
+  category: Regional Forum
+  cost: Free
+  link: https://www.deutsches-restrukturierungsforum.de/
+  checked: *id001
+  notes: No 2027 Stuttgart dates published. Next Stuttgart forum after June 2026 is 12 Nov 2026 ('Immobilien in der Krise', FORUM Haus der Architekten), still in 2026. Each forum has a new topic.
+- title: Dresdener Restrukturierungslunch 2027
+  series: restrukturierungslunch-dresden
+  status: tbd
+  organiser: Deutsches Restrukturierungsforum
+  location: Dresden
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.restrukturierungslunch.de/dresden/
+  source: https://www.restrukturierungslunch.de/dresden/
+  checked: *id002
+  notes: 'Official ''Save the Date: Herbst 2027'' (season only). Past dates: 8 Sep 2026, 17 Sep 2025, 18 Sep 2024. Inference: September 2027 likely.'
+- title: Frankfurter Restrukturierungsforum 2027
+  series: deutsches-restrukturierungsforum-frankfurt
+  status: tbd
+  organiser: Deutsches Restrukturierungsforum
+  location: Frankfurt am Main
+  country: DE
+  category: Regional Forum
+  cost: Free
+  link: https://www.deutsches-restrukturierungsforum.de/frankfurt-am-main/
+  source: https://www.deutsches-restrukturierungsforum.de/frankfurt-am-main/
+  checked: *id002
+  notes: 'Official ''Save the Date: Sommer 2027'' (season only). 2026 edition was 9 June 2026. Inference: recent editions in June (2023-2026), so June 2027 likely.'
+- title: GRR Awards 2027
+  series: grr-awards
+  status: tbd
+  organiser: Global Restructuring Review
+  location: London
+  country: UK
+  category: Networking
+  cost: tbc
+  link: https://events.globalrestructuringreview.com/GRR-Awards
+  checked: *id002
+  notes: 'No 2027 date published. 2026 ceremony (input had no date): 4 November 2026, Pan Pacific London (https://events.globalrestructuringreview.com/GRR-Awards). Inference: annual early-November ceremony.'
+- title: 'GRR Live: Women in Restructuring Summit 2027'
+  series: grr-live-women-in-restructuring-summit
+  status: tbd
+  organiser: Global Restructuring Review
+  location: London
+  country: UK
+  category: Conference
+  cost: tbc
+  link: https://globalrestructuringreview.com/events
+  checked: *id002
+  notes: 'No 2027 date published. 2026 edition (input had no date): 25 June 2026, Pan Pacific London (https://events.globalrestructuringreview.com/GRRWomenInRestructuring2026); 2026 private-practitioner pricing from GBP 395 + VAT. Inference: annual late-June event in London (2025: 26 June).'
+- title: HKTR – Hamburger Kreis für Transformation & Restrukturierung 2027
+  series: hktr-hamburger-kreis-fuer-transformation-and-restrukturierung
+  status: tbd
+  organiser: HKTR (Schwesterverein DKTR)
+  location: Hamburg (wechselnd)
+  country: DE
+  category: Regional Forum
+  cost: Membership
+  link: https://www.dktr.org/hktr
+  checked: *id002
+  notes: dktr.org/hktr publishes no event dates, only a mailing-list sign-up; no third-party listings found.
+- title: Hamburger Restrukturierungsforum 2027
+  series: deutsches-restrukturierungsforum-hamburg
+  status: tbd
+  organiser: Deutsches Restrukturierungsforum
+  location: Hamburg
+  country: DE
+  category: Regional Forum
+  cost: Free
+  link: https://www.deutsches-restrukturierungsforum.de/hamburg/
+  source: https://www.deutsches-restrukturierungsforum.de/hamburg/
+  checked: *id002
+  notes: 'Official: next Hamburger Restrukturierungsforum ''findet im Herbst 2027 statt'' (season only, no month, so no date set). No Hamburg forum in 2026; last one 4 Nov 2025. Inference: past Hamburg dates were late Oct/Nov.'
+- title: ILA Annual Conference 2027
+  series: ila-annual-conference
+  status: tbd
+  organiser: Insolvency Lawyers Association
+  location: London
+  country: UK
+  category: Conference
+  cost: ILA-Members
+  link: https://www.ilauk.com/news-events/upcoming-events
+  checked: *id001
+  notes: 'No 2027 date published on ilauk.com (checked 2026-10-15). Inference: past editions were 28 Mar 2025 and 15 May 2026, London; spring 2027 likely. Duplicate of series ''ila-annual-conference-2''.'
+- title: ILA Annual Conference 2027 (Insolvency Lawyers Association)
+  series: ila-annual-conference-2
+  status: tbd
+  organiser: ILA UK
+  location: London
+  country: UK
+  category: Conference
+  cost: ILA-Members
+  link: https://www.ilauk.com/
+  checked: *id001
+  notes: Duplicate of series 'ila-annual-conference'. No 2027 date published on ilauk.com (checked 2026-10-15).
+- title: INSOL Europe Annual Congress 2027
+  series: insol-europe-annual-congress
+  status: tbd
+  organiser: INSOL Europe
+  location: tbd
+  country: PT
+  category: Conference
+  cost: tbc
+  link: https://www.insol-europe.org/events
+  checked: *id001
+  notes: 'No 2027 congress venue/dates on insol-europe.org (checked 2026-10-15; 2026 congress in Vilamoura is running now). Input correction: 2026 main congress was 15-18 Oct 2026; 14-15 Oct was the Academic Conference. Inference: recent congresses were early/mid October (Sorrento 3-6 Oct 2024, Vienna 9-12 Oct 2025, Vilamoura 15-18 Oct 2026); 2027 city is usually announced at/after the current congress. Related 2027 INSOL Europe dates listed: EECC Conference Limassol 14-15 Apr 2027; AIJA & INSOL Europe Seminar Barcelona 17-19 Jun 2027.'
+- title: INSOL Europe – Environmental Concerns in Insolvency
+  series: insol-europe-environmental-concerns-in-insolvency
+  status: tbd
+  organiser: INSOL Europe / CNAJMJ
+  location: Paris (Commercial Court) + Online
+  country: FR
+  category: Conference
+  cost: tbc
+  link: https://www.insol-europe.org/events
+  checked: *id001
+  notes: 'No 2027 edition listed on INSOL Europe''s 2027 events page (https://www.insol-europe.org/events/0/start_date/asc/2027). The 23 March 2026 event was a co-labelled CNAJMJ colloquium. Inference: likely a one-off colloquium rather than a recurring series.'
+- title: INSOL Europe – Group Insolvencies Seminar 2027
+  series: insol-europe-group-insolvencies-seminar
+  status: tbd
+  organiser: INSOL Europe / Réseau CAP
+  location: Brüssel
+  country: BE
+  category: Conference
+  cost: tbc
+  link: https://www.insol-europe.org/events
+  checked: *id001
+  notes: 'No 2027 edition on INSOL Europe''s events page. The 2026 seminar (''Groups of Companies Under Pressure!'', 6 Mar 2026) was the postponed date of a conference first planned for 28 Nov 2025. Inference: likely a one-off joint seminar rather than an annual series.'
+- title: IPA Annual Conference 2027
+  series: ipa-annual-conference
+  status: tbd
+  organiser: Insolvency Practitioners Association
+  location: London
+  country: UK
+  category: Conference
+  cost: tbc
+  link: https://insolvency-practitioners.org.uk/events/
+  checked: *id001
+  notes: 'No 2027 date published on the IPA events page (checked 2026-10-15). Inference: past editions were late April in London (25 Apr 2024, 30 Apr 2025, 29 Apr 2026, 1 Wimpole Street), so late April 2027 is likely. The 2026 event page URL in the input now returns 404.'
+- title: IfUS Fachsitzung des Verbandes
+  series: ifus-fachsitzung-des-verbandes
+  status: tbd
+  organiser: IfUS-Institut / BDU Fachverband Unternehmensrestrukturierung
+  location: tbd
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+  checked: *id001
+  notes: 'No 2027 dates published. The IfUS page lists the next session as ''BDU Fachverbandssitzung Unternehmensrestrukturierung (III 2026)'' on 19 Nov 2026, location tba. Inference: the numbering (III 2026) suggests about three sessions a year.'
+- title: Insolvency Service Forward Thinking Conference 2027
+  series: insolvency-service-forward-thinking-conference
+  status: tbd
+  organiser: UK Insolvency Service
+  location: UK (tbd)
+  country: UK
+  category: Conference
+  cost: tbc
+  link: https://www.gov.uk/government/publications/the-insolvency-service-forward-thinking-conference
+  checked: *id002
+  notes: 'No 2027 date published. 2026 edition (input had no date): Friday 20 November 2026 with the University of Leeds, per Insolvency Service call for papers on Oxford Business Law Blog (https://blogs.law.ox.ac.uk/oblb/blog-post/2026/06/forward-thinking-conference-call-papers). Host university rotates yearly. Inference: 2027 edition likely in the second half of the year.'
+- title: Münchener Restrukturierungsforum 2027
+  series: deutsches-restrukturierungsforum-muenchen
+  status: tbd
+  organiser: Deutsches Restrukturierungsforum
+  location: München
+  country: DE
+  category: Regional Forum
+  cost: Free
+  link: https://www.deutsches-restrukturierungsforum.de/muenchen/
+  source: https://www.deutsches-restrukturierungsforum.de/muenchen/
+  checked: *id002
+  notes: 'Official ''Save the Date: Frühjahr 2027'' (season only). 2026 editions: 23 Apr 2026 and 13 Oct 2026. Inference: Munich usually holds a spring and an autumn forum, so a second 2027 date in autumn is likely but not announced.'
+- title: R3 & INSOL Europe International Restructuring Conference (21st)
+  series: r3-and-insol-europe-international-restructuring-conference
+  status: tbd
+  organiser: R3 / INSOL Europe
+  location: London
+  country: UK
+  category: Conference
+  cost: tbc
+  link: https://www.r3.org.uk/
+  checked: *id001
+  notes: 'No 2027 date on R3 or INSOL Europe event pages (checked 2026-10-15). Inference: past editions were London in June/July (27 Jun 2024, 3 Jul 2025, 4 Jun 2026, No.11 Cavendish Square); edition number 21 assumes annual continuation.'
+- title: R3 Contentious Insolvency & Creditors Forum 2027
+  series: r3-contentious-insolvency-and-creditors-forum
+  status: tbd
+  organiser: R3
+  location: London
+  country: UK
+  category: Conference
+  cost: R3-Members
+  link: https://www.r3.org.uk/events-training/
+  checked: *id001
+  notes: 'No 2027 date on R3 events pages (checked 2026-10-15). Inference: past editions were London in June/July (6 Jul 2023, 4 Jul 2024, 19 Jun 2025, 16 Jul 2026).'
+- title: R3 Northern Ireland Half Day Forum 2027
+  series: r3-northern-ireland-half-day-forum
+  status: tbd
+  organiser: R3
+  location: Belfast
+  country: UK
+  category: Conference
+  cost: R3-Members
+  link: https://www.r3.org.uk/events-training/
+  checked: *id001
+  notes: 'R3 lists no 2027 NI Half Day Forum yet. Inference: annual in Feb at the Merchant Hotel, Belfast (1 Feb 2024, 20 Feb 2025, 19 Feb 2026, per R3 pages surfaced in search).'
+- title: R3 Personal Insolvency Forum 2027
+  series: r3-personal-insolvency-forum
+  status: tbd
+  organiser: R3
+  location: London
+  country: UK
+  category: Conference
+  cost: R3-Members
+  link: https://www.r3.org.uk/events-training/
+  checked: *id002
+  notes: 'No 2027 date published; R3 events page (checked 2026-10-15) lists events only to 26 Nov 2026. Last London forum (input had no date): Thursday 5 March 2026, Stewarts Law LLP, London; GBP 200 + VAT members / GBP 250 + VAT non-members (https://www.r3.org.uk/events/personal-insolvency-forum-london-2/). Earlier: 22 Feb 2024 and 13 Nov 2024 (London), plus a Manchester edition. Inference: irregular, 1-2 per year.'
+- title: ReTurn Frühstück Klagenfurt 2027
+  series: return-fruehstueck-klagenfurt
+  status: tbd
+  organiser: ReTurn Forum
+  location: Klagenfurt
+  country: AT
+  category: Networking
+  cost: tbc
+  link: https://www.restrukturierung.at/events
+  checked: *id001
+  notes: No 2027 dates published. ReTurn archive shows several Klagenfurt breakfasts in 2026 (e.g. 6 May and 24 Sep 2026, besides 12 Mar), so several 2027 dates are likely but unannounced.
+- title: ReTurn Stammtisch Wien 2027
+  series: return-stammtisch-wien
+  status: tbd
+  organiser: ReTurn Forum
+  location: Wien
+  country: AT
+  category: Networking
+  cost: tbc
+  link: https://www.restrukturierung.at/events
+  checked: *id001
+  notes: ReTurn (TMA Austria chapter) lists only 2 scheduled events (St. Pölten 23 Oct 2026, Dornbirn 1 Dec 2026); no 2027 Vienna dates. ReTurn runs frequent Vienna formats (breakfast, after work) at irregular dates.
+- title: Restrukturierungslunch Erfurt
+  series: restrukturierungslunch-erfurt
+  status: tbd
+  organiser: IfUS-Institut
+  location: Erfurt
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+  checked: *id001
+  notes: 'No 2027 Restrukturierungslunch dates published; the IfUS Branchenevents page (checked 2026-10-15) lists no lunch events for late 2026 or 2027. Inference: the 2026 lunch tour ran April-August, so a 2027 tour in a similar window is plausible but unconfirmed.'
+- title: Restrukturierungslunch Hannover
+  series: restrukturierungslunch-hannover
+  status: tbd
+  organiser: IfUS-Institut
+  location: Hannover
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+  checked: *id001
+  notes: 'No 2027 Restrukturierungslunch dates published; the IfUS Branchenevents page (checked 2026-10-15) lists no lunch events for late 2026 or 2027. Inference: the 2026 lunch tour ran April-August, so a 2027 tour in a similar window is plausible but unconfirmed.'
+- title: Restrukturierungslunch Heidelberg
+  series: restrukturierungslunch-heidelberg
+  status: tbd
+  organiser: IfUS-Institut
+  location: Heidelberg
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+  checked: *id001
+  notes: 'No 2027 Restrukturierungslunch dates published; the IfUS Branchenevents page (checked 2026-10-15) lists no lunch events for late 2026 or 2027. Inference: the 2026 lunch tour ran April-August, so a 2027 tour in a similar window is plausible but unconfirmed.'
+- title: Restrukturierungslunch Magdeburg
+  series: restrukturierungslunch-magdeburg
+  status: tbd
+  organiser: IfUS-Institut
+  location: Magdeburg
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+  checked: *id001
+  notes: 'No 2027 Restrukturierungslunch dates published; the IfUS Branchenevents page (checked 2026-10-15) lists no lunch events for late 2026 or 2027. Inference: the 2026 lunch tour ran April-August, so a 2027 tour in a similar window is plausible but unconfirmed.'
+- title: Restrukturierungslunch München
+  series: restrukturierungslunch-muenchen
+  status: tbd
+  organiser: IfUS-Institut
+  location: München
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+  checked: *id001
+  notes: 'No 2027 Restrukturierungslunch dates published; the IfUS Branchenevents page (checked 2026-10-15) lists no lunch events for late 2026 or 2027. Inference: the 2026 lunch tour ran April-August, so a 2027 tour in a similar window is plausible but unconfirmed.'
+- title: Restrukturierungslunch Nürnberg
+  series: restrukturierungslunch-nuernberg
+  status: tbd
+  organiser: IfUS-Institut
+  location: Nürnberg
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+  checked: *id001
+  notes: 'No 2027 Restrukturierungslunch dates published; the IfUS Branchenevents page (checked 2026-10-15) lists no lunch events for late 2026 or 2027. Inference: the 2026 lunch tour ran April-August, so a 2027 tour in a similar window is plausible but unconfirmed.'
+- title: Restrukturierungslunch Stuttgart
+  series: restrukturierungslunch-stuttgart
+  status: tbd
+  organiser: IfUS-Institut
+  location: Stuttgart
+  country: DE
+  category: Networking
+  cost: tbc
+  link: https://www.ifus-institut.de/veranstaltungen/branchenevents
+  checked: *id001
+  notes: 'No 2027 Restrukturierungslunch dates published; the IfUS Branchenevents page (checked 2026-10-15) lists no lunch events for late 2026 or 2027. Inference: the 2026 lunch tour ran April-August, so a 2027 tour in a similar window is plausible but unconfirmed.'
+- title: SKTR – Stuttgarter Kreis für Transformation & Restrukturierung 2027
+  series: sktr-stuttgarter-kreis-fuer-transformation-and-restrukturierung
+  status: tbd
+  organiser: SKTR (Schwesterverein DKTR)
+  location: Stuttgart (wechselnd)
+  country: DE
+  category: Regional Forum
+  cost: Membership
+  link: https://www.dktr.org/sktr
+  checked: *id002
+  notes: dktr.org/sktr publishes no event dates, only a mailing-list sign-up; no third-party listings found.
+- title: Sanierungskonferenz München (Hamburger Kreis) 2027
+  series: sanierungskonferenz-muenchen
+  status: tbd
+  organiser: Hamburger Kreis
+  location: München
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.linkedin.com/in/distressed-ladies-women-in-restructuring-9a40781a3/
+  checked: *id001
+  notes: 'No official page found for this series (neither 2026 nor 2027); the input link is a Distressed Ladies LinkedIn profile, not an organiser page. Could not verify the 2026 edition; edition number left out (Inference: would be the 3rd). Needs a manual check with the organiser.'
+- title: TMA DACH Event (Deutschland-Österreich-Schweiz) 2027
+  series: tma-dach-event
+  status: tbd
+  organiser: TMA Deutschland / TMA Schweiz / TMA Österreich
+  location: Zürich, Schweiz
+  country: CH
+  category: Conference
+  cost: tbc
+  link: https://www.tma-deutschland.org/aktuelle-veranstaltungen.html
+  checked: *id001
+  notes: 'TMA Deutschland has no 2027 schedule yet (terminuebersicht-2027 returns 404). 2026 date confirmed (22/23 Jan 2026, Zürich). Inference: late-January slot with rotating host country (23/24 Jan 2025 München/Garmisch, 22/23 Jan 2026 Zürich), so late Jan 2027, possibly in Austria.'
+- title: TMA NextGen Event Düsseldorf 2027
+  series: tma-nextgen-event-duesseldorf
+  status: tbd
+  organiser: TMA Deutschland
+  location: Düsseldorf
+  country: DE
+  category: Networking
+  cost: Free
+  link: https://www.tma-deutschland.org/aktuelle-veranstaltungen.html
+  checked: *id001
+  notes: '2026 date confirmed (12 Mar 2026, Düsseldorf, sponsor PwC). No 2027 schedule published. NextGen cities rotate (2025: Frankfurt, Berlin, München; 2026: Frankfurt, Düsseldorf, München, Stuttgart), so a 2027 Düsseldorf event is not certain.'
+- title: TMA NextGen – 10-jähriges Jubiläum
+  series: tma-nextgen-10-jaehriges-jubilaeum
+  status: tbd
+  organiser: TMA Deutschland
+  location: Frankfurt
+  country: DE
+  category: Networking
+  cost: Free
+  link: https://www.tma-deutschland.org/tma-nextgen.html
+  checked: *id001
+  notes: '2026 event confirmed (28 Jan 2026, Frankfurt, ''Jubiläumsveranstaltung 10 Jahre NextGen''). Inference: a one-off anniversary (NextGen founded early 2016), so no 2027 edition is expected. TMA NextGen holds 2-4 regular events a year; no 2027 dates published yet.'
+- title: TMA Stammtisch München 2027
+  series: tma-stammtisch-muenchen
+  status: tbd
+  organiser: TMA Deutschland
+  location: München
+  country: DE
+  category: Networking
+  cost: Free
+  link: https://www.tma-deutschland.org/aktuelle-veranstaltungen.html
+  checked: *id001
+  notes: '2026 date confirmed (17 Mar 2026). No 2027 schedule published. Inference: roughly one Munich Stammtisch a year in spring (29 Apr 2025, 17 Mar 2026).'
+- title: TMA UK Annual Conference 2027
+  series: tma-uk-annual-conference
+  status: tbd
+  organiser: TMA UK
+  location: London (tbd)
+  country: UK
+  category: Conference
+  cost: GBP 475 + VAT (members) / GBP 600 + VAT
+  link: https://tma-uk.org/events
+  checked: *id002
+  notes: 'No 2027 date published. 2026 edition (input had no date): Thursday 12 November 2026, Royal College of Physicians, London; GBP 475 + VAT members / GBP 600 + VAT non-members (https://tma-uk.org/conference/tma-uk-annual-conference-2026). Inference: mid-November pattern (2025: 12-13 Nov).'
+- title: TMA UK Breakfast 2027
+  series: tma-uk-breakfast-uk-restructuring-solutions-for-international-problems
+  status: tbd
+  organiser: TMA UK
+  location: London
+  country: UK
+  category: Networking
+  cost: TMA-Members
+  link: https://tma-uk.org/events
+  checked: *id001
+  notes: The 2026 event (11 Mar 2026, Manicomio, London) was the topic-specific 'London March 2026' breakfast panel; members free, sponsors GBP 33.33 + VAT beyond allocation. The title is a one-time topic. No 2027 breakfast dates on the TMA UK calendar yet.
+- title: TMA UK London
+  series: tma-uk-london-2
+  status: tbd
+  organiser: TMA UK
+  location: London
+  country: UK
+  category: Conference
+  cost: TMA-Members
+  link: https://tma-uk.org/events
+  checked: *id001
+  notes: No matching April 2027 London event found; no TMA UK London event on 22 April 2026 could be verified either (a 'London July 2026' regional event on 2 July 2026 exists). TMA UK lists 'TMA UK Annual Review / Preview Event 2027' in London on 13 Jan 2027 (https://tma-uk.org/events/tma-uk-annual-review-preview-event-2027), booking not yet open; it is unclear whether it belongs to this series.
+- title: TMA UK London (February) 2027
+  series: tma-uk-london
+  status: tbd
+  organiser: TMA UK
+  location: London
+  country: UK
+  category: Conference
+  cost: TMA-Members
+  link: https://tma-uk.org/events
+  checked: *id001
+  notes: 'TMA UK event calendar lists nothing beyond 18 Nov 2026. Could not verify the 11 Feb 2026 event (archive loads via JavaScript). Inference: TMA UK runs monthly London events (slugs like ''london-march-2026''), so a February 2027 London event is likely but unannounced.'
+- title: XV. Turnaroundkongress 2027
+  series: xiv-turnaroundkongress
+  status: tbd
+  organiser: Transformation und Turnaroundkongress GbR
+  location: Weimar
+  country: DE
+  category: Conference
+  cost: tbc
+  link: https://www.turnaroundkongress.com/
+  checked: *id001
+  notes: 'No 2027 date published on turnaroundkongress.com (checked 2026-10-15). Input corrections: official site names the organiser ''Transformation und Turnaroundkongress GbR'' (not e.V.) and the 2026 venue as Hotel Elephant, Markt 19, Weimar (not Alte Remise); 2026 dates 31.08.-01.09.2026 correct. Inference: XV. numbering assumes the annual sequence continues; earlier editions were held in June (2019, 2023), 2026 moved to end of August, so the 2027 month is open.'
