@@ -1,4 +1,7 @@
-# Monthly calendar check (instructions for the Claude routine)
+# Calendar check (instructions for Claude, run on demand)
+
+This check does not run automatically. The owner starts it by saying "Führe ROUTINE.md aus" in the
+Claude app, ideally about once a month.
 
 You keep two event calendars current. The events live in `events/pe.yaml` and
 `events/restructuring.yaml`; `calendars.yaml` lists them. A GitHub Action turns them into

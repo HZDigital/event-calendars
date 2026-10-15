@@ -6,7 +6,7 @@ The landing page on GitHub Pages has the subscribe links.
 ```
 events/*.yaml  →  GitHub Action (scripts/build_ics.py)  →  GitHub Pages  →  webcal:// subscribers
       ↑
-monthly Claude routine (ROUTINE.md) opens a pull request and merges it once the check is green
+on request ("Führe ROUTINE.md aus") Claude opens a pull request and merges it once the check is green
 ```
 
 ## Change an event
@@ -42,11 +42,18 @@ on the page. The owner hands the link to Claude ("trag das in den Kalender ein")
 - `tbd` events show as "(date tbc)"; `cancelled` ones as "CANCELLED: …"; `discontinued` and
   undated entries stay out of the feeds.
 
+## Calendar check on demand
+
+The check of all entries is not scheduled. When the owner says "Führe ROUTINE.md aus" in the Claude app,
+Claude follows `ROUTINE.md`: it branches, checks the entries against the organisers' pages, opens a pull
+request and merges it once the `build` check is green. Only the weekly rebuild (so past events roll off)
+runs automatically.
+
 ## Setup
 
 Done once by `setup_hz_repo.sh` (HZ SharePoint, `02_Event_Calendar_Sync`): repo, Pages source **GitHub Actions**,
-first build. The Claude GitHub app must have access to this repository so the routine can open and merge
-pull requests (an org owner at H&Z Digital approves this). No secrets needed.
+first build. The Claude GitHub app must have access to this repository so Claude can open and merge
+pull requests when working in this repository (an org owner at H&Z Digital approves this). No secrets needed.
 
 ## Later
 
