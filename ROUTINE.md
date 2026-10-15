@@ -5,23 +5,22 @@ is on and the app is open. The owner can also start it any time by saying "Führ
 
 You keep two event calendars current. The events live in `events/pe.yaml` and
 `events/restructuring.yaml`; `calendars.yaml` lists them. A GitHub Action turns them into
-ICS feeds once a change reaches `main`. You merge your own pull request once its check is green;
-the owner gets GitHub's notification and reverts if something is wrong.
+ICS feeds once a change reaches `main`. There are no branches and no pull requests: you change the
+YAML, check it locally and commit straight to `main`. Use only the GitHub account `carl-hz`.
 
 ## Each run
 
-1. Create a branch `routine/YYYY-MM-DD` from `main`.
+1. Start on an up-to-date `main` (`git pull --ff-only`).
 2. For every event that has `end` today or later, or `status: tbd`, open its `source`
    (or `link`) and check date, location and status against the organiser's page.
 3. For every `series` whose most recent entry ends within the next 6 months or lies in the
    past, look for the next edition. If the organiser has announced it, add it as a new entry.
 4. Set `checked: <today>` on every entry you looked at, whether or not it changed.
 5. Run `python scripts/build_ics.py --check`. Fix every error it reports.
-6. Commit and open a pull request titled `Calendar check YYYY-MM-DD`. If nothing changed apart
-   from `checked`, the title ends with `(no changes)`.
-7. Wait for the `build` check (`gh pr checks --watch`). If it is green, squash-merge the PR
-   (`gh pr merge --squash --delete-branch`). If it is red, fix the cause once and push; if it is
-   still red, leave the PR open with a comment saying what failed. Never merge a red PR.
+6. If `--check` is green, commit directly to `main` with the message `Calendar check YYYY-MM-DD`
+   (ending `(no changes)` if only `checked` changed) and `git push`.
+7. If `--check` is red, do not commit or push. Tell the owner what is wrong (entry, field, error).
+   Fix an error only when its cause is obvious (typo, missing field); never push a red state.
 
 ## Keep the run small
 
@@ -50,12 +49,12 @@ The run is paid from a limited budget. Work through the list once, without extra
 - Titles follow the existing style: name plus year, e.g. `IPEM Cannes 2027`.
 - Read-only on the web: no registrations, forms or downloads.
 
-## Pull request description
+## Summary for the owner
 
-Start with one line: how many entries were added, changed, cancelled, unchanged. Then a
+After the push (or after a red check), report in chat. Start with one line: how many entries were added, changed, cancelled, unchanged. Then a
 table of every change: event, field, old → new, source URL. Then, separately, up to five
 new events you came across that fit a calendar but are not in it yet (name, date, link).
-Do not add those to the YAML; the reviewer decides.
+Do not add those to the YAML; the owner decides.
 
 ## Entry format
 

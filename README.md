@@ -6,7 +6,7 @@ The landing page on GitHub Pages has the subscribe links.
 ```
 events/*.yaml  →  GitHub Action (scripts/build_ics.py)  →  GitHub Pages  →  webcal:// subscribers
       ↑
-monthly local task or on request ("Führe ROUTINE.md aus"), Claude opens a pull request and merges it once the check is green
+monthly local task or on request ("Führe ROUTINE.md aus"), Claude edits the YAML, checks it and commits straight to main
 ```
 
 ## Change an event
@@ -31,8 +31,8 @@ on the page. The owner hands the link to Claude ("trag das in den Kalender ein")
 1. Picks the calendar (PE or Restructuring) and opens the event page once.
 2. Adds one entry in the format from `ROUTINE.md`, with a new `series` key; `confirmed` only if the
    page states the date, otherwise `tbd`.
-3. Runs `python scripts/build_ics.py --check`, opens a PR and merges it once the check is green,
-   as in `ROUTINE.md` step 7.
+3. Runs `python scripts/build_ics.py --check`. If green, commits straight to `main` and pushes as
+   `carl-hz` (no branch, no pull request). If red, it does not push and tells the owner what is wrong.
 
 ## Behaviour
 
@@ -46,15 +46,15 @@ on the page. The owner hands the link to Claude ("trag das in den Kalender ein")
 
 The check of all entries runs monthly (1st, 08:00) as a local scheduled task in the Claude Work app,
 only while the Mac is on and the app is open; it is not a cloud routine. It also runs any time the owner
-says "Führe ROUTINE.md aus". Either way Claude follows `ROUTINE.md`: it branches, checks the entries
-against the organisers' pages, opens a pull request and merges it once the `build` check is green.
+says "Führe ROUTINE.md aus". Either way Claude follows `ROUTINE.md`: it checks the entries
+against the organisers' pages, runs `build_ics.py --check` and, if green, commits straight to `main`
+and pushes as `carl-hz` (no branch, no pull request). If the check is red, nothing is pushed and the owner is told.
 Besides that, only the weekly rebuild (so past events roll off) runs automatically on GitHub.
 
 ## Setup
 
 Done once by `setup_hz_repo.sh` (HZ SharePoint, `02_Event_Calendar_Sync`): repo, Pages source **GitHub Actions**,
-first build. The Claude GitHub app must have access to this repository so Claude can open and merge
-pull requests when working in this repository (an org owner at H&Z Digital approves this). No secrets needed.
+first build. Claude works with the `carl-hz` login on this Mac and pushes straight to `main`. No secrets needed.
 
 ## Later
 
