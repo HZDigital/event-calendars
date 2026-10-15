@@ -658,7 +658,7 @@
   series: pe-insights-cee
   start: 2027-05-21
   end: 2027-05-21
-  status: confirmed
+  status: tbd
   organiser: Private Equity Insights
   location: Warsaw (Sheraton Grand)
   country: PL
@@ -667,7 +667,7 @@
   link: https://pe-insights.com/poland-cee
   source: https://pe-insights.com/poland-cee/register
   checked: *id001
-  notes: Organiser register page (titled 'PRIVATE EQUITY INSIGHTS POLAND-CEE 2027') states 21 May 2027, Sheraton Grand Warsaw. Site is bot-protected, so the date was read from the search index of that official page, not a live fetch. Prices inconsistent across pages (general pass EUR 499/549 vs 999 regular).
+  notes: Date unconfirmed (organiser site blocked by Cloudflare, not read live). Organiser register page (titled 'PRIVATE EQUITY INSIGHTS POLAND-CEE 2027') states 21 May 2027, Sheraton Grand Warsaw. Site is bot-protected, so the date was read from the search index of that official page, not a live fetch. Prices inconsistent across pages (general pass EUR 499/549 vs 999 regular).
 - title: German Spring Conference 2027 (Equity Forum)
   series: german-spring-conference
   start: 2027-05-24
