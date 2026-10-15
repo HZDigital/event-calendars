@@ -1,7 +1,7 @@
 # Calendar check (instructions for Claude, run on demand)
 
-This check does not run automatically. The owner starts it by saying "Führe ROUTINE.md aus" in the
-Claude app, ideally about once a month.
+This check runs monthly (1st, 08:00) as a local scheduled task in the Claude Work app, only while the Mac
+is on and the app is open. The owner can also start it any time by saying "Führe ROUTINE.md aus".
 
 You keep two event calendars current. The events live in `events/pe.yaml` and
 `events/restructuring.yaml`; `calendars.yaml` lists them. A GitHub Action turns them into

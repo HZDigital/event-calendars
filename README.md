@@ -6,7 +6,7 @@ The landing page on GitHub Pages has the subscribe links.
 ```
 events/*.yaml  →  GitHub Action (scripts/build_ics.py)  →  GitHub Pages  →  webcal:// subscribers
       ↑
-on request ("Führe ROUTINE.md aus") Claude opens a pull request and merges it once the check is green
+monthly local task or on request ("Führe ROUTINE.md aus"), Claude opens a pull request and merges it once the check is green
 ```
 
 ## Change an event
@@ -42,12 +42,13 @@ on the page. The owner hands the link to Claude ("trag das in den Kalender ein")
 - `tbd` events show as "(date tbc)"; `cancelled` ones as "CANCELLED: …"; `discontinued` and
   undated entries stay out of the feeds.
 
-## Calendar check on demand
+## Calendar check
 
-The check of all entries is not scheduled. When the owner says "Führe ROUTINE.md aus" in the Claude app,
-Claude follows `ROUTINE.md`: it branches, checks the entries against the organisers' pages, opens a pull
-request and merges it once the `build` check is green. Only the weekly rebuild (so past events roll off)
-runs automatically.
+The check of all entries runs monthly (1st, 08:00) as a local scheduled task in the Claude Work app,
+only while the Mac is on and the app is open; it is not a cloud routine. It also runs any time the owner
+says "Führe ROUTINE.md aus". Either way Claude follows `ROUTINE.md`: it branches, checks the entries
+against the organisers' pages, opens a pull request and merges it once the `build` check is green.
+Besides that, only the weekly rebuild (so past events roll off) runs automatically on GitHub.
 
 ## Setup
 
